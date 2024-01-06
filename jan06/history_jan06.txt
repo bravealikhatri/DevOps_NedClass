@@ -389,3 +389,106 @@
   389  git status
   390  git branch
   391  history > history_jan06.txt
+  392  ll
+  393  mkdir jan06
+  394  mv history_jan06.txt jan06
+  395  ls
+  396  ll
+  397  mkdir dec30
+  398  mkdir dec31
+  399  ll
+  400  git status
+  401  git add .
+  402  git status
+  403  git commit -m "Create new Dir and Jan06 initial history"
+  404  git status
+  405  git push
+  406  git brach
+  407  git branch
+  408  git branch main
+  409  git checkout DevOps_Nedclass
+  410  git checkout DevOps_NedClass
+  411  git branch 
+  412  history
+  413  git branch git push --set-upstream origin Jan06
+  414  git checkout
+  415  git branch
+  416  git checkout bahadur
+  417  git checkout DevOps_NedClass
+  418  git branch master
+  419  git branch
+  420  git checkout
+  421  git status
+  422  pwd
+  423  ll
+  424  cd jan06/
+  425  ll
+  426  cd..
+  427  cd ..
+  428  git branch
+  429  git checkout main
+  430  git
+  431  ll
+  432  git branch
+  433  git checkout Jan06 
+  434  git merge
+  435  git checkout main
+  436  git status
+  437  git merge Jan06 
+  438  git commit -m "Merge Jan06 branch to Main branch"
+  439  git push
+  440  ll
+  441  git add .
+  442  git push
+  443  ll
+  444  git push
+  445  git branch
+  446  ll
+  447  git add dec30
+  448  git push
+  449  Ll
+  450  ll
+  451  ls
+  452  git branch git push --set-upstream origin main
+  453  git push --set-upstream origin main
+  454  ll
+  455  git add .
+  456  git status
+  457  git push
+  458  history > history_test.txt
+  459  git add
+  460  git add .
+  461  git commit -m "test"
+  462  git push
+  463  git show
+  464  git
+  465  gir
+  466  git grep
+  467  git add  .
+  468  git status
+  469  ls
+  470  ll
+  471  git push
+  472  git add dec30
+  473  git commit -m "added new dir"
+  474  git push
+  475  git push main
+  476  git branch
+  477  git push origin main
+  478  git push -u origin main 
+  479  clear
+  480  ls
+  481  ll
+  482  ls - lah
+  483  ls -lah
+  484  cat history_test.txt 
+  485  clear
+  486  git checkout Jan06 
+  487  ll
+  488  git push
+  489  git branch
+  490  ls
+  491  cd jan06/
+  492  git status
+  493  ls
+  494  history > history_jan06.txt 
