@@ -1,0 +1,391 @@
+    1  ping google.com
+    2  sudo apt-get update
+    3  sudo apt-get install git-all
+    4  git
+    5  git clone https://github.com/bravealikhatri/Devops_Dec30.githttps://github.com/bravealikhatri/Devops_Dec30.git
+    6  git clone https://github.com/bravealikhatri/Devops_Dec30.git
+    7  ls - lah
+    8  ls -lah
+    9  cd Devops_Dec30/
+   10  pwd
+   11  branch
+   12  vim README.md 
+   13  git status
+   14  pwd
+   15  apt install rheolef
+   16  git checkout --README.md
+   17  git status
+   18  git checkout -- README.md
+   19  git status
+   20  vim README.md 
+   21  git status
+   22  git add README.md 
+   23  Git status
+   24  git status
+   25  vim README.md 
+   26  git add README.md 
+   27  git status
+   28  git commit -m "Author and change1 Added"
+   29  https://github.com/bravealikhatri/Devops_Dec30.git "braveali@gmail.com
+   30  git config --global user.email "braveali@gmail.com"
+   31  git config --global user.name "Bahadur Ali"
+   32  git status
+   33  git commit -m "Author and Change 1 Added"
+   34  git status
+   35  git push
+   36  cd..
+   37  cd.
+   38  cd..
+   39  ccd!
+   40  cd~
+   41  cd\
+   42  pwd
+   43  ls - lah
+   44  ls -lah
+   45  cd .ssh
+   46  ls -lah
+   47  cat authorized_keys 
+   48  ssh-keygen
+   49  ls - lha
+   50  ls -lha
+   51  car id_rsa
+   52  cat id_rsa
+   53  cat id_rsa.pub 
+   54  cd~
+   55  cd ~
+   56  clone git git@github.com:bravealikhatri/Devops_Dec30.git
+   57  git clone git@github.com:bravealikhatri/Devops_Dec30.gitgit@github.com:bravealikhatri/Devops_Dec30.git
+   58  git clone git@github.com:bravealikhatri/Devops_Dec30.git
+   59  rm -fr Devops_Dec30/
+   60  git clone git@github.com:bravealikhatri/Devops_Dec30.git
+   61  ls -lha
+   62  cd Devops_Dec30/
+   63  vim README.md 
+   64  git commit -m "Author and change 1 Added"
+   65  git add README.md 
+   66  git status
+   67  git commit -m "Author and change 1 Added"
+   68  git push
+   69  vim README.md 
+   70  clear
+   71  git branch
+   72  git checkout -b dec30
+   73  git brach
+   74  git branch
+   75  git status
+   76  history
+   77  ls -lah
+   78  clear
+   79  history > history.txt
+   80  ls - lah
+   81  ls -lah
+   82  vim history.txt
+   83  git checkout -b ClassDec30
+   84  git status
+   85  git add
+   86  git add history.txt 
+   87  git commit -m "history of commands"
+   88  git status
+   89  push
+   90  git push
+   91  git push --set-upstream origin ClassDec30
+   92  git status
+   93  clear
+   94  status
+   95  git status
+   96  ls -lah
+   97  git pull 
+   98  git branch 
+   99  ls -lah
+  100  vim history.txt 
+  101  history
+  102  vim history.txt 
+  103  git update
+  104  git status
+  105  git add
+  106  git add history.txt 
+  107  git status
+  108  git commit -m "Added new History Commands"
+  109  git status
+  110  git push
+  111  cd ~
+  112  Pwd
+  113  pwd
+  114  sudo apt install tree
+  115  tree
+  116  exit
+  117  clear 
+  118  git status
+  119  ls -lah
+  120  cd Devops_Dec30/
+  121  git status
+  122  history > history_file.doc
+  123  git add history_file.doc 
+  124  git commit -m "Adding Doct File in github"
+  125  git push
+  126  git pull
+  127  cat history_file.docx
+  128  ls - lah
+  129  ls -lah
+  130  cd Devops_Dec30/
+  131  ls -lah
+  132  git status
+  133  git branch
+  134  git push
+  135  mkdir ClassDec31
+  136  Ls -lah
+  137  ls -lah
+  138  cat history.txt 
+  139  git checkout -b ClassDec31
+  140  git branch 
+  141  vim README.md 
+  142  git commit -m "Dec31 Class start chechecking git Commands"
+  143  git add README.md 
+  144  git status
+  145  git push
+  146  git push --set-upstream origin ClassDec31
+  147  exit
+  148  clear
+  149  ls -lah
+  150  mkdir DevOps_Dec31
+  151  cd Devops_Dec30/
+  152  ls -lah
+  153  vim history.txt 
+  154  vim README.md 
+  155  git branch
+  156  git add
+  157  git add README.md 
+  158  git commit -m "file updated for 31 Dec class"
+  159  git status
+  160  git push
+  161  Git branch
+  162  git branch
+  163  git checkout ClassDec30
+  164  git branch 
+  165  git checkout ClassDec31
+  166  git branch 
+  167  clear
+  168  git show
+  169  git status 
+  170  git checkout -b Merge 
+  171  ls -lah
+  172  rm -fr ClassDec31/
+  173  rm -fr history.txt 
+  174  rm -fr history_file.doc
+  175  rm -fr history_file.docx 
+  176  ls -lah
+  177  history > 31-Dec-History.txt
+  178  ls -lah
+  179  git add
+  180  git add 31-Dec-History.txt 
+  181  git commit -m "Merge checking"
+  182  git status
+  183  git add 31-Dec-History.txt 
+  184  git commit -m "History merge"
+  185  git push
+  186  git push --set-upstream origin Merge
+  187  git branch
+  188  git merge ClassDec31
+  189  git checkout main
+  190  git merge Merge
+  191  ls -lah
+  192  git branch
+  193  git Push
+  194  git push
+  195  exit
+  196  clear
+  197  whoami 
+  198  uname
+  199  man uname
+  200  whoami --version
+  201  uname --version
+  202  clear
+  203  uname
+  204  clear
+  205  pwd
+  206  clear
+  207  ls - lah
+  208  clear
+  209  ls -lah
+  210  mkdir assign1
+  211  cd assign1
+  212  cd..
+  213  cd .
+  214  cd ..
+  215  clear
+  216  rm -fr assign1/
+  217  id
+  218  clera
+  219  clear
+  220  id
+  221  clear
+  222  mkdir assign1
+  223  cd assign1
+  224  history > history.txt
+  225  cat history.txt 
+  226  vim history
+  227  vim history.txt 
+  228  cat history.txt 
+  229  cd ..
+  230  cd assign1/
+  231  mkdir -m 700 Dirwith700permission
+  232  ls -lah
+  233  mkdir -m 777 Dirwith777permission
+  234  mkdir -m 770 Dirwith770permission
+  235  ls -lah
+  236  clear
+  237  mkdir -p Music/{Jazz/Blues,Folk,Disco,Rock/{Gothic,Punk,Progressive},Classica  l/Baroque/Early}
+  238  tree
+  239  rm -fr Music/
+  240  tree
+  241  rm -fr l
+  242  tree
+  243  mkdir -p Music/{Jazz/Blues,Folk,Disco,Rock/{Gothic,Punk,Progressive},Classical/Baroque/Early}
+  244  tree
+  245  mv history.txt Dirwith777permission/
+  246  cd Dirwith777permission/
+  247  dir
+  248  cp history.txt assign1
+  249  cd..
+  250  cd ..
+  251  dir
+  252  ls -lah
+  253  clear
+  254  dir
+  255  ls -lah
+  256  history
+  257  cd Dirwith777permission/
+  258  ls -lah
+  259  mv history.txt assign1 
+  260  cd ..
+  261  ls -lah
+  262  history > history.txt
+  263  cat history.txt 
+  264  git clone git@github.com:bravealikhatri/Devops_Dec30.git
+  265  ls -lah
+  266  cd Devops_Dec30/
+  267  ls -lah
+  268  vim README.md 
+  269  cat README.md 
+  270  ls -lah
+  271  clear
+  272  git commit -m "assign1 line added"
+  273  git add README.md 
+  274  git commit -m "assign1 line added"
+  275  git status
+  276  git push
+  277  clear
+  278  git branch 
+  279  git status
+  280  git checkout -b assign1
+  281  git status
+  282  git add
+  283  git add history.txt
+  284  git commit -m "history commands"
+  285  git status
+  286  git add
+  287  git push
+  288  git push --set-upstream origin assign1
+  289  branch
+  290  git branch
+  291  git branch main
+  292  git checkout main
+  293  git status
+  294  cd ..
+  295  exit
+  296  ll
+  297  git status
+  298  cd assign1/
+  299  git status
+  300  git
+  301  git status
+  302  cd..
+  303  cd ..
+  304  git status
+  305  cd ~
+  306  ls- lah
+  307  ls -lah
+  308  cd assign1/
+  309  ll
+  310  cat history.txt 
+  311  git clone git@github.com:bravealikhatri/Devops_Dec30.git
+  312  cd..
+  313  cd ..
+  314  git clone git@github.com:bravealikhatri/Devops_Dec30.git
+  315  git clone git@github.com:bravealikhatri/Devops_6jan.git
+  316  ll
+  317  cd assign1/
+  318  ll
+  319  rm -fr Devops_Dec30/
+  320  git clone git@github.com:bravealikhatri/Devops_6jan.git
+  321  git clone git@github.com:bravealikhatri/Devops_Dec30.git
+  322  git status
+  323  cd Devops_Dec30/
+  324  git status
+  325  cd..
+  326  cd ..
+  327  cd..
+  328  cd ..
+  329  git clone git@github.com:bravealikhatri/Devops_5jan.git
+  330  ll
+  331  cd Devops_5jan/
+  332  git status
+  333  ll
+  334  vim README.md 
+  335  git status
+  336  git add README.md 
+  337  git status
+  338  git commit -m "Update README file"
+  339  git status
+  340  git push
+  341  git branch Bahadur
+  342  git stauts
+  343  git status
+  344  git branch
+  345  git checkout bahadur
+  346  git checkout branch bahadur
+  347  git branch -a Bahadur
+  348  git checkout -p bahadur
+  349  git branch
+  350  cd bahadur
+  351  ll
+  352  git status
+  353  tree
+  354  ll
+  355  clear
+  356  git checkout -p bahadur
+  357  git checkout -1 bahadur
+  358  git checkout -b bahadur
+  359  ll
+  360  history > history.txt
+  361  git add history.txt 
+  362  git commit -m "Add history file"
+  363  git status
+  364  git push
+  365  git push --set-upstream origin bahadur
+  366  git checkout -b
+  367  git checkout -b main
+  368  git checkout main
+  369  git
+  370  git checkout bahadur
+  371  ll
+  372  clear
+  373  git status
+  374  pwd
+  375  git branch
+  376  cd..
+  377  cd ..
+  378  git clone git@github.com:bravealikhatri/DevOps_NedClass.git
+  379  git checkout -b Jan06
+  380  git status
+  381  cd DevOps_NedClass/
+  382  git checkout -b Jan06
+  383  git branch
+  384  ll
+  385  git add
+  386  git commit -m "new branch Created jan06"
+  387  git push
+  388  git push --set-upstream origin Jan06
+  389  git status
+  390  git branch
+  391  history > history_jan06.txt
